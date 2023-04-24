@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @einstein-john
-- 👀 I’m interested in ...cross platform application development and artificial inteligence
-- 🌱 I’m currently learning ...python & Java 
+- 👀 I’m interested in  application development 
+- 🌱 I’m currently learning ...kotlin & python 
 - 💞️ I’m looking to collaborate on ...
+- I'm fluent in c++ and java
 - 📫 How to reach me ...https://www.instagram.com/einstein_ofonime/
 
 <!---
