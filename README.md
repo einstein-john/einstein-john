@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @einstein-john
 - 👀 I’m interested in  application development 
-- 🌱 I’m currently learning ...kotlin & python 
+- 🌱 I’m currently learning ...kotlin & JAVA EE 
 - 💞️ I’m looking to collaborate on ...
 - I'm fluent in c++ and java
 - 📫 How to reach me ...https://www.instagram.com/einstein_ofonime/
